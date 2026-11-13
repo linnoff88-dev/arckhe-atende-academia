@@ -1,0 +1,42 @@
+2026-10-19 13:48:15 início: rápido=0 passed · agente=codex · teto 20x30min · mem 8G
+2026-10-19 13:48:15 ciclo 1: começa
+2026-10-19 13:51:24 ciclo 1: agente saiu rc=0 em 189s
+2026-10-19 13:51:43 ciclo 1: rápido=9 passed (melhor antes: 0)
+2026-10-19 13:51:43 ciclo 1: checkpoint commitado
+2026-10-19 13:52:02 ciclo 2: começa
+2026-10-19 13:54:23 ciclo 2: agente saiu rc=0 em 141s
+2026-10-19 13:54:43 ciclo 2: rápido=20 passed (melhor antes: 9)
+2026-10-19 13:54:43 ciclo 2: checkpoint commitado
+2026-10-19 13:55:03 ciclo 3: começa
+2026-10-19 13:57:36 ciclo 3: agente saiu rc=0 em 153s
+2026-10-19 13:57:56 ciclo 3: rápido=26 passed (melhor antes: 20)
+2026-10-19 13:57:56 ciclo 3: checkpoint commitado
+2026-10-19 13:58:16 ciclo 4: começa
+2026-10-19 14:00:48 ciclo 4: agente saiu rc=0 em 152s
+2026-10-19 14:01:07 ciclo 4: rápido=28 passed (melhor antes: 26)
+2026-10-19 14:01:07 ciclo 4: checkpoint commitado
+2026-10-19 14:01:26 ciclo 5: começa
+2026-10-19 14:04:51 ciclo 5: agente saiu rc=0 em 205s
+2026-10-19 14:05:10 ciclo 5: rápido=43 passed (melhor antes: 28)
+2026-10-19 14:05:10 ciclo 5: checkpoint commitado
+2026-10-19 14:05:31 ciclo 6: começa
+2026-10-19 14:07:27 ciclo 6: agente saiu rc=0 em 116s
+2026-10-19 14:07:48 ciclo 6: rápido=45 passed (melhor antes: 43)
+2026-10-19 14:07:48 ciclo 6: checkpoint commitado
+2026-10-19 14:08:08 ciclo 7: começa
+2026-10-19 14:11:09 ciclo 7: agente saiu rc=0 em 181s
+2026-10-19 14:12:06 ciclo 7: rápido=63 passed (melhor antes: 45)
+2026-10-19 14:12:06 ciclo 7: checkpoint commitado
+2026-10-19 14:13:01 ciclo 8: começa
+2026-10-19 14:15:52 ciclo 8: agente saiu rc=0 em 171s
+2026-10-19 14:16:48 ciclo 8: rápido=74 passed (melhor antes: 63)
+2026-10-19 14:16:48 ciclo 8: checkpoint commitado
+2026-10-19 14:17:42 ciclo 9: começa
+2026-10-19 14:20:24 ciclo 9: agente saiu rc=0 em 162s
+2026-10-19 14:21:21 ciclo 9: rápido=78 passed (melhor antes: 74)
+2026-10-19 14:21:21 ciclo 9: checkpoint commitado
+2026-10-19 14:22:18 ciclo 10: começa
+2026-10-19 14:25:10 ciclo 10: agente saiu rc=0 em 172s
+2026-10-19 14:26:19 ciclo 10: rápido=84 passed (melhor antes: 78)
+2026-10-19 14:26:19 ciclo 10: checkpoint commitado
+2026-10-19 14:27:26 ciclo 11: começa

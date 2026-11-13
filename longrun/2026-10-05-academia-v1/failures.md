@@ -1,0 +1,27 @@
+# Falhas (só acrescentar; ao fim, a menor correção vira linha no FALHAS.md do projeto)
+
+| data | o que quebrou | tentativa | resultado | prompt \| infra |
+|---|---|---|---|---|
+| 2026-10-19 | Leitura inicial tentou tests/test_base.py inexistente | localizar com rg --files e ler tests/test_basico.py | leitura corrigida, sem alteração de testes | prompt |
+| 2026-10-19 | Suíte completa: 90 failed, funcionalidades ainda ausentes | implementar base/alunos/planos/matrículas primeiro | 9 passed, 90 failed; próximas rotas no plan.md, sem conflito identificado entre contrato e testes | infra |
+| 2026-10-19 | Escrita de FALHAS.md substituiu histórico | recuperar HEAD e inserir novos registros no topo | histórico preservado antes do fim do ciclo | prompt |
+
+| 2026-10-19 13:54 -0300 | Suíte ainda com 79 falhas por módulos ausentes; aulas depende de chat e check-in/tarefas | implementar domínio de aulas e rodar suíte completa | 20 passed / 79 failed; pendências registradas, sem conflito teste/spec identificado | infra |
+
+| 2026-10-19 13:56 -0300 | Suíte ainda com módulos ausentes (chat, exercícios, avaliação, integrações e entrega) | implementar check-in/reativação e núcleo local de tarefas | 26 passed / 73 failed; sem conflito teste/spec; próximos módulos no plan.md | infra |
+
+| 2026-10-19 | Verificação manual recebeu 401 usando token do fixture com configuração de exemplo | repetir copiando fixture para dados temporários | erro de preparação corrigido, sem alterar implementação | prompt |
+
+| 2026-10-19 14:00 -0300 | Suíte ainda com módulos ausentes, inclusive SVG e chat que atravessam treino | implementar catálogo/ficha e seleção do treino | 28 passed / 71 failed; nenhum conflito teste/spec identificado | infra |
+
+| 2026-10-19 14:04 -0300 | Suíte ainda falha nos módulos não implementados (avaliação, conversa, integrações e entrega) | concluir SVGs/páginas e rodar suíte inteira | 43 passed / 56 failed; nenhum conflito teste/spec identificado | infra |
+
+| 2026-10-19 14:07 -0300 | Suíte ainda falha em conversa, LGPD, integrações e entrega ausentes | implementar avaliação física e verificar suíte completa | 45 passed / 54 failed; sem conflito teste/spec identificado | infra |
+
+| 2026-10-19 14:11 -0300 | Suíte ainda falha em módulos ausentes, incluindo /dados no teste de opt-out | implementar conversa local e verificar suíte inteira | 63 passed / 36 failed; sem conflito teste/spec identificado | infra |
+
+| 2026-10-19 14:15 -0300 | Suíte ainda falha em cadastros, backup, integrações, páginas e entrega ausentes → implementar campanhas/LGPD/Raio-X → 74 passed / 25 failed; sem conflito teste/spec | infra |
+
+| 2026-10-19 14:20 -0300 | Suíte ainda falha em integrações, páginas e entrega ausentes → implementar cadastros e backup/restauração → 78 passed / 21 failed; sem conflito teste/spec | infra |
+
+| 2026-10-19 14:25 -0300 | Integrações/entrega ainda incompletas → implementar Evolution e verificar suíte completa → 84 passed / 15 failed; faltam Telegram e entrega, sem conflito teste/spec | infra |

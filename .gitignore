@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.db
+*.sqlite*
+/dados/
+.loop.lock
+.env
+/backups/
+node_modules/
+/package.json
+/package-lock.json
+renders/
+/web/exercicios/*.mp4
+/.verif-svg-*/
